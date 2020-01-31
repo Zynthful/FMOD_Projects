@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{14b9d88f-d375-4b53-b963-d54cfb55c8de}">
+		<property name="assetPath">
+			<value>Amb_RainOutside.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>36.635104166666665</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a33baa77-8a8c-4a78-826b-987467d102bd}</destination>
+		</relationship>
+	</object>
+</objects>
