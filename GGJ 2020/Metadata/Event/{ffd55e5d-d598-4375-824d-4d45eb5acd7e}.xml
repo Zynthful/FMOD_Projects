@@ -207,7 +207,7 @@
 			<value>26.5</value>
 		</property>
 		<property name="length">
-			<value>3.9778263760604804</value>
+			<value>3.9778263760604808</value>
 		</property>
 		<relationship name="fadeInCurve">
 			<destination>{b989be8b-a2a5-40c7-8486-a16cf968fa10}</destination>
@@ -227,7 +227,7 @@
 			<value>32.657277790606187</value>
 		</property>
 		<property name="timelockedOffset">
-			<value>3.9778263760604804</value>
+			<value>3.9778263760604808</value>
 		</property>
 		<relationship name="fadeOutCurve">
 			<destination>{45327d06-bfd3-4445-90bd-5df9ce663828}</destination>
@@ -244,7 +244,7 @@
 			<value>32.657297672298874</value>
 		</property>
 		<property name="length">
-			<value>3.9778263760604804</value>
+			<value>3.9778263760604808</value>
 		</property>
 		<relationship name="fadeInCurve">
 			<destination>{7dbcd46d-d789-4f83-8d01-50ddac50e175}</destination>
@@ -281,7 +281,7 @@
 			<value>7.5059854226532545</value>
 		</property>
 		<property name="length">
-			<value>10.341101835523894</value>
+			<value>10.341101835523896</value>
 		</property>
 		<property name="timelockedOffset">
 			<value>7.5059854226532545</value>
@@ -422,7 +422,7 @@
 			<value>3.4409974510692107</value>
 		</property>
 		<property name="timelockedOffset">
-			<value>15.186076669521354</value>
+			<value>15.186076669521352</value>
 		</property>
 		<property name="pitch">
 			<value>-2.4000001</value>
@@ -736,7 +736,7 @@
 	</object>
 	<object class="AutomationPoint" id="{7d587942-0caf-40c5-98a5-5e2e0309b5ff}">
 		<property name="position">
-			<value>11.205846699884866</value>
+			<value>11.205846699884869</value>
 		</property>
 		<property name="value">
 			<value>1</value>
@@ -747,7 +747,7 @@
 	</object>
 	<object class="AutomationPoint" id="{5c3f1069-9e22-4fb0-a84f-23a1b2891f89}">
 		<property name="position">
-			<value>17.847087258177147</value>
+			<value>17.847087258177151</value>
 		</property>
 		<property name="value">
 			<value>0</value>

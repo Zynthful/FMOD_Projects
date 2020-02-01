@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.00.00">
-	<object class="AudioFile" id="{26c4deb8-78a1-4acf-b298-91ef851ec852}">
+	<object class="AudioFile" id="{45036304-b1f1-40ef-8b1e-44b55cbc8507}">
 		<property name="assetPath">
-			<value>Footstep_Stone_9.wav</value>
+			<value>Footstep_Grass_4.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>0.53145833333333337</value>
+			<value>0.53016666666666667</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{a33baa77-8a8c-4a78-826b-987467d102bd}</destination>
